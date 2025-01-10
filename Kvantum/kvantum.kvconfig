@@ -1,0 +1,6 @@
+[General]
+theme=Nordic-Darker
+
+[Applications]
+KvDark=Dolphin
+Nordic-Darker=dolphin
